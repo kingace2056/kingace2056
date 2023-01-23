@@ -24,5 +24,5 @@
 
 ---
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=kingace2056&theme=dracula" alt="kingace2056's activity graph" /></p>
+[![Sarthak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kingace2056&theme=dracula)](https://github.com/kingace2056/github-readme-activity-graph)
 <br>
