@@ -78,7 +78,7 @@
 
   
 
-<img  src="https://raw.githubusercontent.com/kingace2056/snkgraph/manual-run-output/only-svg/github-contribution-grid-snake.svg"  alt="e"  style="max-width: 100%;">
+<img  src="https://raw.githubusercontent.com/kingace2056/snkgraph/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"  alt="e"  style="max-width: 100%;">
 
   
   
