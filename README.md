@@ -60,7 +60,7 @@
 
 <p  align="center">
 
-<a  href="https://wakatime.com/@kingace2056"><img  src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social"  alt="wakatime"></a>
+<a  href="https://wakatime.com/@kingace2056"><img  src="https://wakatime.com/badge/user/018e2cb0-7769-4151-9458-5d6dd5a11120.svg?style=social"  alt="wakatime"></a>
 
 <a  href="https://github.com/kingace2056?tab=following"><img  src="https://img.shields.io/github/stars/kingace2056?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social"  alt="GitHub User's stars"></a>
 
