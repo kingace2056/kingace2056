@@ -3,7 +3,9 @@
 
 
 - I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal 🇳🇵
-- I'm currently learning Dart And Python . 
+- I'm currently learning Dart And Python .
+- Full Time Flutter Developer 
+- Freelancer
 
 <br />
 
